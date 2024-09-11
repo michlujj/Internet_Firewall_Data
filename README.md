@@ -1,9 +1,9 @@
-Internet Firewall Data
+O level's mathematics score prediction
 
-The dataset was collected from the internet traffic records on a university's firewall.
+Dataset contains math test scores achieved by students in the 0 level mathematics examination for a school
 
-Modelling objective: To predict the possible action result of website visiting request.
+Modelling objective: To predict the students' O-level mathematics examination score to help the school to identify weaker students prior to the examination 
 
-Target variable: 'Action' ('allow','deny','drop','reset-both')
+A Regression task
 
-Dataset link: https://archive.ics.uci.edu/dataset/542/internet+firewall+data
+
